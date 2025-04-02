@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 # StayEase
-=======
-# StayEase
 
 # Built a full-stack Airbnb-like platform using Node.js, Express, EJS, and MongoDB, featuring user authentication,        property listings, and interactive maps.
 
